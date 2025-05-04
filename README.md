@@ -18,7 +18,7 @@ https://colab.research.google.com/drive/11qJlCUsruip2fnfuJy8EFSCWBZ-qlJGv?usp=sh
 - Demonstrates workflow patterns based on the *Building Effective Agents* framework
 
 ### 🤖 Crew.ai Implementation
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)
+[![Open in Colab](https://colab.research.google.com/drive/1HFekKC_L6zCA3pk-uIetMxQxAJnvXe-d?usp=sharing)](#)
 
 - Implements the same patterns in **Crew.ai**
 - Provides a comparison of both framework approaches

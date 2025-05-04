@@ -11,7 +11,7 @@ Watch the complete demo here: [YouTube Link](#) <!-- Replace with actual link --
 ## 📁 Repository Contents
 
 ### 🚀 LangGraph Implementation
-[![Open in Colab](https://colab.research.google.com/drive/11qJlCUsruip2fnfuJy8EFSCWBZ-qlJGv?usp=sharing)](#)
+https://colab.research.google.com/drive/11qJlCUsruip2fnfuJy8EFSCWBZ-qlJGv?usp=sharing
 
 - Implements agent design patterns using the **LangGraph API**
 - Includes **debug trace visualizations** using **LangSmith Studio**

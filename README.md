@@ -4,7 +4,7 @@
 This repository showcases implementations of several **agent design patterns** using two popular frameworks: **LangGraph** and **Crew.ai**. This project is part of the submission for **Assignment 8**.
 
 ## 📽️ Video Walkthrough
-Watch the complete demo here: [YouTube Link](#) <!-- Replace with actual link -->
+Watch the complete demo here: [https://youtu.be/zeSlOzU4aE0](#) <!-- Replace with actual link -->
 
 ---
 
